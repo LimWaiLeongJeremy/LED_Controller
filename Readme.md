@@ -156,6 +156,6 @@ Log files are excluded from version control via `.gitignore`.
 
 | Phase | Status      | Description                                      |
 |-------|-------------|--------------------------------------------------|
-| 1     | ✅ Complete  | CLI tool — UDP brightness control                |
-| 2     | 🔄 In progress | FastAPI backend + React frontend              |
-| 3     | 🔜 Planned   | Docker + Cloudflare Tunnel for remote access     |
+| 1     | Complete  | CLI tool — UDP brightness control                |
+| 2     | Complete | FastAPI backend + React frontend              |
+| 3     | Complete   | Docker + Cloudflare Tunnel for remote access     |
